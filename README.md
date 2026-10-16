@@ -1,4 +1,4 @@
-# RepoPrep Pro 🚀
+# RepoPrep Pro 
 
 **Professional Project Cleaner & Organizer**  
 Prepare your repositories for sharing — clean, copy, and ship with confidence.
